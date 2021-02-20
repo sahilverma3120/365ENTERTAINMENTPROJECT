@@ -1,8 +1,7 @@
 # 365ENTERTAINMENTPROJECT
-iTs a project similar to hotstar app
+iTs a project similar Given by suven consultants
 
 
 
 
-// STB NO.SPACE MOBILE NO
-9217092170
+
