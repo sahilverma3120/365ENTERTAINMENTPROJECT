@@ -1,4 +1,5 @@
 # 365ENTERTAINMENTPROJECT
+Task 2
 iTs a project demo for entertaintment movies webseries etc. like hotstar
 Given by suven consultants
 
